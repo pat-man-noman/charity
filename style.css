@@ -2,10 +2,10 @@
     font-family: days;
     src: url("./28\ Days\ Later.ttf");
 }
-body{
+.background{
     background-color:rgb(171, 175, 175)
 }
-h1{
+.logo2{
     size: 50px;
     text-align: center;
     margin: auto;
@@ -19,7 +19,7 @@ h1{
     text-align: center;
     margin: auto;
 }
-h2{
+.goals{
     font-family: Days;
     text-align: center;
     margin: auto;
@@ -39,7 +39,7 @@ h2{
     margin: auto;
     font-size: 25px;
 }
-p{
+.discrip{
     margin-top: -5%;
     margin-left: 12%;
     margin-right: 12%;
